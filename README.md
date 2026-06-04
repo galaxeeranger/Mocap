@@ -1,6 +1,6 @@
 # Mocap - Multi-Camera AI Motion Capture System
 
-![Mocap Demo](./Mocap_image.png)
+![Mocap Demo](./Mocap_Demo.png)
 
 A real-time AI-powered motion capture system built using Python, MediaPipe, OpenCV, and multi-camera 3D triangulation. The system captures human motion from multiple cameras, reconstructs a 3D skeleton in real time, and provides a foundation for animation retargeting, game development, virtual production, and character rigging workflows.
 
