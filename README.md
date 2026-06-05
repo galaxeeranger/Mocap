@@ -334,3 +334,6 @@ MIT License
 ⭐ If you find this project useful, consider starring the repository.
 
 ![Mocap Demo](./MoCap_Demo.gif)
+<p align="center">
+  <img src="./Mocap_Demo.gif" alt="Mocap Demo" width="100%">
+</p>
