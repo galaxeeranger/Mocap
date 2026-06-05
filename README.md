@@ -332,3 +332,5 @@ MIT License
 ---
 
 ⭐ If you find this project useful, consider starring the repository.
+
+![Mocap Demo](./MoCap_Demo.mp4)
